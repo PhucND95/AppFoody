@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AppFoody</string>
+    <string name="dangtai">Đang tải...</string>
+    <string name="tencongty">Minh Phuc</string>
+    <string name="email">Email</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="hoac">Hoặc</string>
+    <string name="dangnhapfacebook">Đăng nhập bằng Facebook</string>
+    <string name="dangnhapbanggoogle">Đăng nhập bằng Google</string>
+    <string name="quenmatkhau">Quên mật khẩu ?</string>
+    <string name="dangkymoi"><u>Đăng ký mới</u></string>
+    <string name="nhaplaimatkhau">Nhập lại mật khẩu</string>
+    <string name="dangky">Đăng ký</string>
+    <string name="thongbaoloidangky">Bạn chưa nhập</string>
+    <string name="thongbaonhaplaimatkhau">Vui lòng kiểm tra lại mật khẩu</string>
+    <string name="dangkythanhcong">Đăng ký thành công</string>
+    <string name="dangxuly">Đang xử lý</string>
+    <string name="khoiphucmatkhau">Khôi phục mật khẩu</string>
+    <string name="chuoikhoiphucmatkhau">Bạn vui lòng nhập địa chỉ Email vào khung bên dưới để khôi phục mật khẩu !</string>
+    <string name="guimail">Gửi email</string>
+   <string name="chuoithanhvien">Bạn không phải là thành viên ? </string>
+    <string name="angi">Ăn gì</string>
+    <string name="odau">Ở đâu</string>
+    <string name="datmon">Đặt món</string>
+    <string name="phienban">Phiên bản</string>
+    <string name="taianh">Tải ảnh</string>
+    <string name="checkin">Check-in</string>
+    <string name="binhluan">Bình luận</string>
+    <string name="luulai">Lưu lại</string>
+    <string name="chiase">Chia sẽ</string>
+</resources>
